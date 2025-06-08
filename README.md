@@ -36,10 +36,6 @@ This project showcases a complete data analysis workflow using MySQL for backend
 3. Make sure it connects to your MySQL ODBC DSN
 4. Click Refresh to load data
 
-## 📸 Dashboard Preview
-
-
-
 - Name: Sairaj Reshma Santosh Bobade
 - LinkedIn: http://www.linkedin.com/in/sairaj-bobade28
 - GitHub: sairaj2802 https://github.com/sairaj2802)
